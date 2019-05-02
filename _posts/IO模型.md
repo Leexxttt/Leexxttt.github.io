@@ -1,4 +1,14 @@
+---
+layout: post
+title: IO模型
+category:java
+tags: [java]
+keywords: IO,IO模型，NIO
+excerpt: IO五中模型。
+---
+
 ### IO模型有哪5种？  
+
 ![image](https://i.loli.net/2019/03/28/5c9c8fa28dff8.png)
 ### IO
 ![image](https://i.loli.net/2019/03/28/5c9c909ba570b.png)
