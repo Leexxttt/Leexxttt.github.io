@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 设计模式之单例模式
-category:设计模式
+category: 设计模式
 tags: [设计模式]
 keywords: 设计模式，java，单例
 excerpt: 设计模式之单例模式。
