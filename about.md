@@ -16,4 +16,4 @@ subtitle:   <h3>Download My CV</h3>
 css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon-css/css/flag-icon.min.css']
 ---
 
-{% include about.html %}
+<iframe src="//player.bilibili.com/player.html?aid=33930291&amp;cid=59421084&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
