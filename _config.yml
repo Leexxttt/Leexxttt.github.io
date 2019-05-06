@@ -98,7 +98,7 @@ navs:
   - 
     href: /java.html
     label: Java
-    target: _blank
+    target: _self
 
   -
     href: /archives.html
