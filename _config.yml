@@ -57,18 +57,13 @@ paginate_path: 'page:num'
 menus:
 
   -
-    href: /zsxq.html
-    label: 星球
-    target: _self
-
-  -
     href: /gitchat.html
-    label: Chat
+    label: JVM
     target: _self
 
   -
     href: /geektime.html
-    label: 极客
+    label: 算法4
     target: _self
 
   -
@@ -78,12 +73,12 @@ menus:
 
   -
     href: /arch.html
-    label: 架构
+    label: 网络
     target: _self
 
   -
     href: /link.html
-    label: 友链
+    label: 集合
     target: _self
 
 
@@ -121,12 +116,12 @@ labels:
 
   -
     href: /fastdfs.html
-    label: FastDFS
+    label: MySQL
     target: _blank
 
   -
     href: /mongodb.html
-    label: MongoDB
+    label: 剑指offer
     target: _blank
 
   -
@@ -134,15 +129,6 @@ labels:
     label: Docker
     target: _blank
 
-  -
-    href: /open-source.html
-    label: Code  
-    target: _blank
-
-  -
-    href: /it.html
-    label: IT 
-    target: _blank
 
 
 
